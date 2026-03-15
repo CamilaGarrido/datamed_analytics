@@ -1,0 +1,10 @@
+# Entornos Virtuales (venv)
+venv/
+.venv/
+env/
+bin/
+lib/
+share/
+
+# Archivos HTML y exportaciones
+*.html
